@@ -1,5 +1,7 @@
 # mvcap-website
-New website for community development charity MVCAP. Site built using React and Bootstrap. Live site hosted on Firebase. 
+New website for registered community development charity MVCAP (reg no: 1155592)
+
+Site hosted on Firebase.
 
 Site built with React and Bootstrap 4
 
